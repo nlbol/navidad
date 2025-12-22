@@ -8,24 +8,19 @@ https://www.sololinux.es/script-bash-arbol-de-navidad-en-la-consola/
 
 Instalar toilet
 
-sudo apt install toilet -y
-
+    sudo apt install toilet -y
 
 ejecutar el archivo menu.sh
 
-$ bash menu.sh
+    bash menu.sh
 
 opciones 
 
-1.- navidad
+    1.- navidad
+    2.- detener
+    3.- Feliz Año Nuevo
+    4.- salir
 
-2.- detener
-
-3.- Feliz Año Nuevo
-
-4.- salir
-
-##
 
 # Audio utilizado con Licencia Creative Commons
 
@@ -35,14 +30,9 @@ https://commons.wikimedia.org/wiki/File:Jingle_Bells_(90bpm)_(Kevin_MacLeod)_(IS
 
 Creditos a los miembros de la comunidad Nucleo Linux por agregarles el plus al script de navidad.sh:
 
-@keyjay
+- @keyjay
 
-@FershoUno
+- @FershoUno
 
 
 #Feliz_Navidad!
-
-
-
-
-# navidad
