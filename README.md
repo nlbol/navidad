@@ -6,9 +6,9 @@ https://www.sololinux.es/script-bash-arbol-de-navidad-en-la-consola/
 
 # Instrucciones
 
-Instalar toilet
+Instalar dependencias
 
-    sudo apt install toilet -y
+    sudo apt install toilet terminator -y
 
 ejecutar el archivo menu.sh
 
